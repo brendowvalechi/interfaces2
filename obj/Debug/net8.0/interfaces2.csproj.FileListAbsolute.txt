@@ -1,0 +1,15 @@
+/workspaces/interfaces2/bin/Debug/net8.0/interfaces2
+/workspaces/interfaces2/bin/Debug/net8.0/interfaces2.deps.json
+/workspaces/interfaces2/bin/Debug/net8.0/interfaces2.runtimeconfig.json
+/workspaces/interfaces2/bin/Debug/net8.0/interfaces2.dll
+/workspaces/interfaces2/bin/Debug/net8.0/interfaces2.pdb
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.AssemblyInfoInputs.cache
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.AssemblyInfo.cs
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.csproj.CoreCompileInputs.cache
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.sourcelink.json
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.dll
+/workspaces/interfaces2/obj/Debug/net8.0/refint/interfaces2.dll
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.pdb
+/workspaces/interfaces2/obj/Debug/net8.0/interfaces2.genruntimeconfig.cache
+/workspaces/interfaces2/obj/Debug/net8.0/ref/interfaces2.dll
